@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "bme-hospital-manager",
+          "appId": "1:797791224045:android:b462e22f2f4396121a0ce4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bme-hospital-manager",
+          "configurations": {
+            "android": "1:797791224045:android:b462e22f2f4396121a0ce4",
+            "ios": "1:797791224045:ios:96418df3b316886b1a0ce4",
+            "macos": "1:797791224045:ios:96418df3b316886b1a0ce4",
+            "web": "1:797791224045:web:312acfc945bb62e61a0ce4",
+            "windows": "1:797791224045:web:e2ddbe34b1c74f2b1a0ce4"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

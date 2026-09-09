@@ -1,22 +1,17 @@
-# MEDICARE Patient Monitor
+# medicare_app
 
-AI-Assisted ESP32 Patient Monitoring System.
+A new Flutter project.
 
-## Features
-- Heart Rate & SpO₂ Monitoring
-- Body Temperature
-- ECG Monitoring
-- Room Temperature & Humidity
-- Patient History
-- Daily Health Check-In
-- AI Analysis
-- Early Detection / Risk Trends
-- Nearby Healthcare
-- Emergency Calls
-- Firebase Cloud Synchronization
+## Getting Started
 
-## Download
-Download the latest Android APK from the Releases section.
+This project is a starting point for a Flutter application.
 
-## Important
-MEDICARE is a biomedical engineering prototype for monitoring and decision support. It does not replace professional medical diagnosis or emergency medical care.
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "797791224045",
+    "firebase_url": "https://bme-hospital-manager-default-rtdb.firebaseio.com",
+    "project_id": "bme-hospital-manager",
+    "storage_bucket": "bme-hospital-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797791224045:android:b1a388d98ded85aa1a0ce4",
+        "android_client_info": {
+          "package_name": "com.example.bme_hospital_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMDpLduheSFuUKSjTtUyU5a5XgmWYZa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797791224045:android:b462e22f2f4396121a0ce4",
+        "android_client_info": {
+          "package_name": "com.example.medicare_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMDpLduheSFuUKSjTtUyU5a5XgmWYZa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
